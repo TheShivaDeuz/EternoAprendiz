@@ -1,1 +1,2 @@
-# EternoAprendiz
+Aoenas compartilhar meus códigos e pouco conhecimento comigo...
+
